@@ -1,12 +1,12 @@
 // Generado por scripts/build-index.mjs — no editar a mano.
 window.POSTS = [
   {
-    "slug": "hope-2016-alien",
-    "title": "Hope (2016)",
-    "rating": 3,
+    "slug": "too-many-beasts-2026-alien",
+    "title": "Too Many Beasts (2026)",
+    "rating": 2,
     "author": "👾",
     "date": "2026-10-15",
-    "content": "Hope llegó al Festival de Sitges haciendo mucho ruido tras su inesperado éxito en Cannes. Los fans del terror/sci-fi la ponían por las nubes y todo el mundo contaba con que sería un bombazo. Además, la última película del director, The Wailing, había ganado el premio a la mejor película asiática de Sitges un par de años antes. En resumen: mucha expectación.\n\nLa primera hora de la película me resultó tan brillante como esperaba. Es un fragmento larguísimo, sin apenas diálogos, de puro caos y misterio en un pequeño pueblo pesquero coreano. El gore y la destrucción son absolutos, las balas se desparraman y los coches patinan entre personajes que no paran de correr y sufrir. Podría compararse a las escenas de acción de la saga A Quiet Place, pero extendidas y mejoradas. Y cuando el monstruo por fin aparece... maravilla. Hay quien dice que los efectos especiales son cutres (y lo son), pero en este fragmento todo funciona a la perfección.\n\nPor desgracia, la película se descalabra cuando se revelan las cartas: estos desgraciados están arrancando una saga con pinta de space opera. Y lo están haciendo sin ningún tipo de escrúpulos, añadiendo más lore alienígena a cada minuto que pasa. No quiero hacer spoilers, pero el tramo final de la película viene a ser el prólogo de la segunda parte, uno que no pega en absoluto con lo que acabamos de ver. La última escena dinamita todas las normas sobre cómo contar una historia, y lo hace con una falta de gusto tan bestia que sólo la puedo achacar a un choque cultural.\n\nAdemás, el tema de los efectos especiales se termina por volver sangrante. Me parece increíble que se hayan gastado semejante pastizal en el decorado de la primera parte, para luego terminar con unos monstruos que parecen sacados de una serie B de los noventa.\n\nLa película dura casi tres horas, se hace larguísima. Es lenta y todas las escenas están estiradas. En la primera parte, tocada por la varita de la inspiración, esto no molesta. Pero luego se vuelve una pesadilla.\n\nAl salir del cine, algunos de los espectadores dijeron que «les entretuvo». Y es cierto, el engendro entretiene. Pero para mi, con un director de este calibre, semejante presupuesto y el hype que está generando, no es suficiente.\n\nRecomiendo la primera hora. Luego, a otra cosa."
+    "content": "Too Many Beasts es una película correcta en su ejecución, pero insignificante en lo que cuenta. Se trata de un pequeño whodunit ambientado en el rural francés: granjeros y cazadores se pelean por el exceso de jabalís en el bosque. ¿A quién le importa? La historia y los personajes no me pueden interesar menos, no encontré ni una sola escena con fuerza y el final me dejó exactamente como estaba.\n\nLo único que se puede salvar un poco es el detective protagonista, un antihéroe sagaz, pero turbio y atormentado, que provoca bastante vergüenza ajena. Es diferente. Tal vez, con una trama a la altura, el detective podría llegar a brillar. Aquí no es más que una anécdota en mitad de la nada."
   },
   {
     "slug": "hope-2026-alien",
